@@ -22,6 +22,8 @@ This organization is where I will gather everything related to **game developmen
 
 > ⏳ **This is a very long-term project.** I'm just starting out in game development and I'm learning **Godot Engine** as I go, so don't expect finished games anytime soon. This space will grow slowly, at the pace of my learning.
 
+---
+
 <br>
 
 ## 🌱 Where I Am Right Now
@@ -32,6 +34,8 @@ This organization is where I will gather everything related to **game developmen
 | 🧪 Small prototypes and experiments | 🟡 Coming soon |
 | 📝 Game design documents and planning | 🟡 Coming soon |
 | 🕹️ Complete games | ⚪ Far in the future |
+
+---
 
 <br>
 
