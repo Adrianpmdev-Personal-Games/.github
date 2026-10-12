@@ -14,11 +14,15 @@
 
 ---
 
+<br>
+
 ## 👋 About
 
 This organization is where I will gather everything related to **game development**: prototypes, experiments, design documents and, one day, complete games.
 
 > ⏳ **This is a very long-term project.** I'm just starting out in game development and I'm learning **Godot Engine** as I go, so don't expect finished games anytime soon. This space will grow slowly, at the pace of my learning.
+
+<br>
 
 ## 🌱 Where I Am Right Now
 
@@ -29,11 +33,15 @@ This organization is where I will gather everything related to **game developmen
 | 📝 Game design documents and planning | 🟡 Coming soon |
 | 🕹️ Complete games | ⚪ Far in the future |
 
+<br>
+
 ## 🚀 Projects
 
 There are no public games here yet, and that's expected. As prototypes and projects become presentable, they will appear in the **Repositories** tab. 📌 Pinned repositories will show the most relevant ones.
 
 ---
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -44,14 +52,10 @@ There are no public games here yet, and that's expected. As prototypes and proje
 
 ---
 
+<br>
+
 ## 👤 Maintainer
 
 Maintained by [@adrianpmdev](https://github.com/adrianpmdev), Junior Full Stack Developer.
 
 ---
-
-<div align="center">
-
-✨ Learning one prototype at a time ✨
-
-</div>
