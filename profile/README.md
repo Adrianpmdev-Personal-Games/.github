@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Just_getting_started-F59E0B?style=for-the-badge)
 ![Horizon](https://img.shields.io/badge/Horizon-Long_term-0078D4?style=for-the-badge)
 
-[![Maintainer](https://img.shields.io/badge/Maintainer-adrianpmdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianpmdev)
+[![Author](https://img.shields.io/badge/Author-adrianpmdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianpmdev)
 
 </div>
 
@@ -58,8 +58,16 @@ There are no public games here yet, and that's expected. As prototypes and proje
 
 <br>
 
-## 👤 Maintainer
+## 👤 Author
 
-Maintained by [@adrianpmdev](https://github.com/adrianpmdev), Junior Full Stack Developer.
+Created and maintained by [@adrianpmdev](https://github.com/adrianpmdev), Junior Full Stack Developer.
 
 ---
+
+<br>
+
+<div align="center">
+
+✨ Thanks for stopping by! ✨
+
+</div>
